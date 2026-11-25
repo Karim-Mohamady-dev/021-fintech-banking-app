@@ -1,0 +1,421 @@
+{
+  "nav": {
+    "features": "Features",
+    "how": "How it works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "skip": "Skip to content",
+    "cta": "Open your account"
+  },
+  "form": {
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "email": "Email address",
+    "emailPlaceholder": "you@example.com",
+    "successTitle": "You are on the list",
+    "success": "Check your inbox for the next steps.",
+    "errorRequired": "This field is required",
+    "errorEmail": "Enter a valid email address",
+    "privacy": "We only use your details to set up your account.",
+    "submit": "Open your account"
+  },
+  "footer": {
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "privacyText": "Demo privacy notice. This page is a demonstration. It does not collect or store personal data on a server. Details entered in the form stay in your browser.",
+    "termsText": "Demo terms. This page is a demonstration with sample content and placeholder prices. Nothing here is a binding offer.",
+    "tagline": "Banking that shows you where your money goes.",
+    "rights": "© 2026 Lumen Bank. All rights reserved."
+  },
+  "cookie": {
+    "label": "Cookie notice",
+    "text": "We use cookies to remember your language choice and keep this demo working.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "misc": {
+    "close": "Close",
+    "backToTop": "Back to top",
+    "taglineLabel": "Our promise"
+  },
+  "meta": {
+    "title": "Lumen Bank | Banking that shows where your money goes",
+    "description": "Lumen is a bank account with clear spending insights, instant transfers and cards you control from your phone."
+  },
+  "brand": {
+    "name": "Lumen Bank",
+    "initial": "L"
+  },
+  "hero": {
+    "badge": "New: instant transfers",
+    "title": "Banking that shows you where your money goes",
+    "subtitle": "Lumen is a bank account with clear spending insights, instant transfers and cards you control from your phone.",
+    "cta": "Open your account",
+    "secondary": "Try the banking demo",
+    "proof": "Sample account used by customers like Dana Ibrahim, Karim Hassan and Lina Farouk"
+  },
+  "logos": {
+    "label": "Built for everyday banking at",
+    "items": [
+      "Northgate Legal",
+      "Fieldkit",
+      "Atlas Media",
+      "Harbor School",
+      "Brightpath Studio"
+    ],
+    "note": "Sample company names for demonstration."
+  },
+  "problem": {
+    "eyebrow": "The problem",
+    "title": "Money leaves the account faster than the statement arrives.",
+    "text": "The statement comes at the end of the month, the categories are vague, and by the time you see the total, the month is already over.",
+    "points": [
+      "Spending hides across cards and apps",
+      "Statements arrive after the money is gone",
+      "Saving feels like guessing"
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Why Lumen",
+    "title": "A bank account that explains itself",
+    "items": [
+      {
+        "title": "See spending by category",
+        "text": "Every payment is sorted into groceries, transport, eating out and more, the moment it happens."
+      },
+      {
+        "title": "Send money in seconds",
+        "text": "Transfers to friends and family arrive instantly, with no form to fill in."
+      },
+      {
+        "title": "Freeze a card in one tap",
+        "text": "Lost a card? Freeze it from your phone and unfreeze it when it turns up."
+      },
+      {
+        "title": "Save a little every payday",
+        "text": "Set a rule that moves a small amount to savings each time your salary lands."
+      }
+    ]
+  },
+  "tagline": "Money that makes sense at a glance, with tools that help the month end well.",
+  "how": {
+    "eyebrow": "How it works",
+    "title": "Banking in three steps",
+    "steps": [
+      {
+        "title": "Open an account in minutes",
+        "text": "Verify your identity from your phone. No branch visit, no paper forms."
+      },
+      {
+        "title": "Add money and order a card",
+        "text": "Top up from another bank and get a virtual card instantly, a physical one by post."
+      },
+      {
+        "title": "Track spending as it happens",
+        "text": "Every payment appears with its category and a running view of the month."
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "What customers say",
+    "title": "Sample notes from customers using the demo",
+    "label": "Sample testimonial",
+    "items": [
+      {
+        "quote": "For the first time I know where the month went before the month ends.",
+        "name": "Dana Ibrahim",
+        "role": "Teacher in Cairo"
+      },
+      {
+        "quote": "Freezing my card from the tram took ten seconds. The card turned up in my coat.",
+        "name": "Karim Hassan",
+        "role": "Designer in Alexandria"
+      },
+      {
+        "quote": "The payday rule saved more in three months than I managed in a year.",
+        "name": "Lina Farouk",
+        "role": "Nurse in Giza"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple plans, no hidden fees",
+    "note": "Prices are placeholders. Everyday banking starts free.",
+    "popular": "Most popular",
+    "plans": [
+      {
+        "name": "Everyday",
+        "price": "{{price}}",
+        "period": "per month",
+        "cta": "Open your account",
+        "popular": false,
+        "features": [
+          "Free account and virtual card",
+          "Instant transfers",
+          "Spending insights",
+          "Freeze and unfreeze"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "{{price}}",
+        "period": "per month",
+        "cta": "Open your account",
+        "popular": true,
+        "features": [
+          "Everything in Everyday",
+          "Physical metal card",
+          "Higher transfer limits",
+          "Savings rules"
+        ]
+      },
+      {
+        "name": "Joint",
+        "price": "{{price}}",
+        "period": "per month",
+        "cta": "Open your account",
+        "popular": false,
+        "features": [
+          "Everything in Plus",
+          "Shared account for two",
+          "Shared savings goals",
+          "Priority support"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions, answered",
+    "items": [
+      {
+        "q": "Is my money protected?",
+        "a": "Deposits are held with a licensed partner bank and protected under the local deposit scheme. Ask support for the current limits."
+      },
+      {
+        "q": "How fast are transfers?",
+        "a": "Transfers between Lumen accounts are instant. Transfers to other banks usually arrive within a few hours."
+      },
+      {
+        "q": "Is there a monthly fee?",
+        "a": "The Everyday plan has no monthly fee. Plus and Joint have a monthly fee shown on the pricing page."
+      },
+      {
+        "q": "Can I use the card abroad?",
+        "a": "Yes. Cards work worldwide, and the app shows the exchange rate before you pay."
+      },
+      {
+        "q": "How do savings rules work?",
+        "a": "Pick a rule, such as a fixed amount on payday or rounding up purchases, and Lumen moves the money for you."
+      },
+      {
+        "q": "What if I lose my card?",
+        "a": "Freeze it in the app in one tap, order a replacement, and keep paying with the virtual card."
+      },
+      {
+        "q": "Can I open a joint account?",
+        "a": "Yes, with the Joint plan. Both holders verify identity in the app."
+      },
+      {
+        "q": "Can I close my account anytime?",
+        "a": "Yes. Move your money out and close the account from settings. No exit fee."
+      }
+    ]
+  },
+  "final": {
+    "title": "Open an account that explains itself",
+    "text": "Create your Lumen account in minutes and see your first insights today."
+  },
+  "demo": {
+    "title": "Banking demo",
+    "subtitle": "Check a balance, review spending and send money. All figures are sample data.",
+    "sampleLabel": "Sample data",
+    "monthLabel": "Month",
+    "balanceLabel": "Current balance",
+    "accountLabel": "Main account ··4821",
+    "showLabel": "Show balance",
+    "hideLabel": "Hide balance",
+    "spendingLabel": "Spending this month",
+    "transferLabel": "Send money",
+    "recipientLabel": "Recipient",
+    "recipientPlaceholder": "Name or email",
+    "amountLabel": "Amount",
+    "amountPlaceholder": "0.00",
+    "sendLabel": "Send money",
+    "sentLabel": "Transfer sent. It will appear in your transactions.",
+    "errorRecipient": "Enter a recipient name or email.",
+    "errorAmount": "Enter an amount above zero.",
+    "errorFunds": "That amount is more than your balance.",
+    "transactionsLabel": "Transactions",
+    "filterLabel": "Filter transactions",
+    "today": "Today",
+    "currency": "$",
+    "filters": {
+      "all": "All",
+      "in": "Money in",
+      "out": "Money out"
+    },
+    "months": [
+      {
+        "label": "September",
+        "balance": 2841.37,
+        "spending": [
+          {
+            "label": "Groceries",
+            "amount": 412
+          },
+          {
+            "label": "Eating out",
+            "amount": 238
+          },
+          {
+            "label": "Transport",
+            "amount": 147
+          },
+          {
+            "label": "Shopping",
+            "amount": 326
+          },
+          {
+            "label": "Bills",
+            "amount": 518
+          }
+        ],
+        "transactions": [
+          {
+            "label": "Salary from Northgate Legal",
+            "amount": 3200.0,
+            "kind": "in",
+            "date": "1 Sep 2026"
+          },
+          {
+            "label": "Corner Market",
+            "amount": 86.4,
+            "kind": "out",
+            "date": "28 Sep 2026"
+          },
+          {
+            "label": "Metro card top up",
+            "amount": 32.0,
+            "kind": "out",
+            "date": "26 Sep 2026"
+          },
+          {
+            "label": "Cafe Luna",
+            "amount": 18.5,
+            "kind": "out",
+            "date": "24 Sep 2026"
+          }
+        ]
+      },
+      {
+        "label": "October",
+        "balance": 3127.58,
+        "spending": [
+          {
+            "label": "Groceries",
+            "amount": 389
+          },
+          {
+            "label": "Eating out",
+            "amount": 264
+          },
+          {
+            "label": "Transport",
+            "amount": 161
+          },
+          {
+            "label": "Shopping",
+            "amount": 294
+          },
+          {
+            "label": "Bills",
+            "amount": 502
+          }
+        ],
+        "transactions": [
+          {
+            "label": "Salary from Northgate Legal",
+            "amount": 3200.0,
+            "kind": "in",
+            "date": "1 Oct 2026"
+          },
+          {
+            "label": "Corner Market",
+            "amount": 74.2,
+            "kind": "out",
+            "date": "27 Oct 2026"
+          },
+          {
+            "label": "Bookstore",
+            "amount": 41.9,
+            "kind": "out",
+            "date": "22 Oct 2026"
+          },
+          {
+            "label": "Ride to airport",
+            "amount": 23.75,
+            "kind": "out",
+            "date": "19 Oct 2026"
+          }
+        ]
+      },
+      {
+        "label": "November",
+        "balance": 2984.12,
+        "spending": [
+          {
+            "label": "Groceries",
+            "amount": 431
+          },
+          {
+            "label": "Eating out",
+            "amount": 197
+          },
+          {
+            "label": "Transport",
+            "amount": 138
+          },
+          {
+            "label": "Shopping",
+            "amount": 358
+          },
+          {
+            "label": "Bills",
+            "amount": 526
+          }
+        ],
+        "transactions": [
+          {
+            "label": "Salary from Northgate Legal",
+            "amount": 3200.0,
+            "kind": "in",
+            "date": "1 Nov 2026"
+          },
+          {
+            "label": "Corner Market",
+            "amount": 92.1,
+            "kind": "out",
+            "date": "9 Nov 2026"
+          },
+          {
+            "label": "Pharmacy",
+            "amount": 27.4,
+            "kind": "out",
+            "date": "7 Nov 2026"
+          },
+          {
+            "label": "Cinema tickets",
+            "amount": 31.0,
+            "kind": "out",
+            "date": "5 Nov 2026"
+          }
+        ]
+      }
+    ]
+  }
+}
