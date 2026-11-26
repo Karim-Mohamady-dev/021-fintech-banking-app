@@ -144,12 +144,12 @@
   "pricing": {
     "eyebrow": "Pricing",
     "title": "Simple plans, no hidden fees",
-    "note": "Prices are placeholders. Everyday banking starts free.",
+    "note": "Demo pricing — prices shown are for demonstration only. Everyday banking starts free.",
     "popular": "Most popular",
     "plans": [
       {
         "name": "Everyday",
-        "price": "{{price}}",
+        "price": "$0",
         "period": "per month",
         "cta": "Open your account",
         "popular": false,
@@ -162,7 +162,7 @@
       },
       {
         "name": "Plus",
-        "price": "{{price}}",
+        "price": "$9",
         "period": "per month",
         "cta": "Open your account",
         "popular": true,
@@ -175,7 +175,7 @@
       },
       {
         "name": "Joint",
-        "price": "{{price}}",
+        "price": "$14",
         "period": "per month",
         "cta": "Open your account",
         "popular": false,
